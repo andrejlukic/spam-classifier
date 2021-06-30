@@ -6,8 +6,6 @@ The goal of this work is to write an supervised learning-based classifier to det
 
 Originally the name spam referred to a brand of canned cooked pork made by Hormel Foods Corporation. The product was intended to increase the sale of pork shoulder which was not a very popular cut. [2]
 
-![Sliced spam](media/640px-Sliced_Spam.jpeg "Sliced spam") (Source: Wikipedia [2])
-
 During the World War II Spam became a ubiquitous part of the U.S. soldier's diet. It became variously referred to as "ham that didn't pass its physical", "meatloaf without basic training", and "Special Army Meat". It was featured in an iconic 1970 Monty Python sketch called "Spam". Set in a café which mostly served dishes containing Spam, including "egg and Spam, egg bacon and Spam, Spam egg sausage and Spam, Spam egg Spam Spam bacon and Spam ",the piece also featured a companion song. [2] [3]
 
 
