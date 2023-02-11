@@ -1,4 +1,4 @@
-# Spam classifier
+# A simple spam classifier using Naive Bayes
 
 ## Introduction
 
